@@ -23,8 +23,8 @@
 
 ## 📫 How to Reach Me
 - Email: nabeel.okal@gmail.com
-- LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/nabeel-okal-914175282)
-- GitHub: [github.com/your-username](https://github.com/nabeelokal2003)
+- LinkedIn: www.linkedin.com/in/nabeel-okal-914175282
+- GitHub: https://github.com/nabeelokal2003
 
 ---
 
