@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Nabeel Okal
 
-<!--
-**nabeelokal2003/nabeelokal2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A Computer Science student at the German Jordanian University (GJU)  
+🤖 Passionate about **Robotics**, **AI/Machine Learning**, and the intersection of hardware and software  
+💡 I enjoy building robots, working with microcontrollers like Arduino and ESP32, and integrating AI for autonomy.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working On
+- 🤖 AI-powered Chatbot
+- 🚗 Line following and obstacle avoiding robots
+- 🧠 Machine Learning projects using Python
+- 📱 Mobile and Web projects (Kotlin, HTML, JavaScript, PHP)
+
+---
+
+## 🛠️ Skills
+- Programming Languages: `C++`, `Python`, `Java`, `Kotlin`, `JavaScript`, `PHP`
+- Tools & Frameworks: `Arduino IDE`, `Raspberry Pi`, `ESP32`, `Git & GitHub`, `MySQL`, `Linux (Ubuntu)`
+- Areas of Interest: `Computer Vision`, `Reinforcement Learning`, `Embedded Systems`, `IoT`, `Autonomous Robots`
+
+---
+
+## 📫 How to Reach Me
+- Email: [nabeel.okal@gmail.com]
+- LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/nabeel-okal-914175282)
+- GitHub: [github.com/your-username](https://github.com/nabeelokal2003)
+
+---
+
+## 💡 Fun Facts
+- ⚙️ I love building machines that think and move
+- 🌊 I'm fascinated by underwater robotics and space exploration
+- 📚 Constantly learning — from OpenCV to TensorFlow
+
+---
+
+_“Driven by passion, powered by code.”_
