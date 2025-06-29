@@ -25,7 +25,7 @@
 - Email: nabeel.okal@gmail.com
 - LinkedIn: www.linkedin.com/in/nabeel-okal-914175282
 - GitHub: https://github.com/nabeelokal2003
-
+- My Portfolio Website: [NabeelPortfolio](https://timely-lokum-ee3e18.netlify.app/)
 ---
 
 ## 💡 Fun Facts
@@ -34,6 +34,5 @@
 - 📚 Constantly learning — from OpenCV to TensorFlow
 
 ---
-🔗 **My Portfolio Website:** [[nabeelokal.dev](https://timely-lokum-ee3e18.netlify.app/)]()
 
 _“Driven by passion, powered by code.”_
